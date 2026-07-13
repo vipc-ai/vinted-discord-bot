@@ -1,15 +1,128 @@
 [
     {
-        "channelId": "xxxx",
-        "channelName": "test1",
-        "url": "https://www.vinted.fr/catalog?brand_ids[]=53",
-        "frequency": 10
+        "channelId": "1525980031967297768",
+        "channelName": "ryzen",
+        "url": "https://www.vinted.lt/catalog?search_text=Ryzen&price_to=100",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
     },
     {
-        "channelId": "xxxx",
-        "channelName": "test2",
-        "url": "https://www.vinted.fr/catalog?brand_ids[]=12",
-        "frequency": 6,
-        "titleBlacklist": ["test", "test2"]
+        "channelId": "1525980031967297768",
+        "channelName": "ryzen5",
+        "url": "https://www.vinted.lt/catalog?search_text=Ryzen%205&price_to=100",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "gpu",
+        "url": "https://www.vinted.lt/catalog?search_text=GPU&price_to=210",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "rtx",
+        "url": "https://www.vinted.lt/catalog?search_text=RTX&price_to=210",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "rtx3070",
+        "url": "https://www.vinted.lt/catalog?search_text=RTX%203070&price_to=210",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "rtx3070ti",
+        "url": "https://www.vinted.lt/catalog?search_text=RTX%203070%20Ti&price_to=210",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "aio",
+        "url": "https://www.vinted.lt/catalog?search_text=AIO&price_to=35",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "ddr5",
+        "url": "https://www.vinted.lt/catalog?search_text=DDR5&price_to=60",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "ddr5_16gb",
+        "url": "https://www.vinted.lt/catalog?search_text=DDR5%2016GB&price_to=60",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "ddr5_32gb",
+        "url": "https://www.vinted.lt/catalog?search_text=DDR5%2032GB&price_to=60",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "ssd512",
+        "url": "https://www.vinted.lt/catalog?search_text=512GB%20SSD&price_to=40",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "ssd1tb",
+        "url": "https://www.vinted.lt/catalog?search_text=1TB%20SSD&price_to=40",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "ssd1024",
+        "url": "https://www.vinted.lt/catalog?search_text=1024GB%20SSD&price_to=40",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "nvme",
+        "url": "https://www.vinted.lt/catalog?search_text=NVMe&price_to=40",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "psu",
+        "url": "https://www.vinted.lt/catalog?search_text=PSU&price_to=30",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "msimag",
+        "url": "https://www.vinted.lt/catalog?search_text=MSI%20MAG",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "b650",
+        "url": "https://www.vinted.lt/catalog?search_text=B650",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
+    },
+    {
+        "channelId": "1525980031967297768",
+        "channelName": "a620",
+        "url": "https://www.vinted.lt/catalog?search_text=A620",
+        "frequency": 100,
+        "titleBlacklist": ["not working", "broken", "neveikia"]
     }
 ]
